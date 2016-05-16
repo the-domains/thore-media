@@ -1,0 +1,28 @@
+name: Thore Media
+favicon: null
+layout_spectrum: 0.1855104761198163
+typography_spectrum: 0.6132528048474342
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9617373675573617
+  lightness: 0.17786410124972463
+  saturation: 0.016297067748382688
+  rhythmicContrast: 0.8727917768992484
+purpose: []
